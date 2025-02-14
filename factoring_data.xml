@@ -1,0 +1,288 @@
+<FactoringContracts>
+  <Contract>
+    <IssueDate>2024-01-15</IssueDate>
+    <Amount>120000.00</Amount>
+    <BankSWIFT>BIGBPLPW</BankSWIFT>
+    <Debtor>ABCD Company</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/126/2023</Number>
+        <DueDate>2024-03-15</DueDate>
+        <Amount>50000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-02-10</IssueDate>
+    <Amount>85000.00</Amount>
+    <BankSWIFT>PKOPPLPW</BankSWIFT>
+    <Debtor>XYZ Industries</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/45/2024</Number>
+        <DueDate>2024-04-10</DueDate>
+        <Amount>30000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/46/2024</Number>
+        <DueDate>2024-04-12</DueDate>
+        <Amount>25000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-03-05</IssueDate>
+    <Amount>150000.00</Amount>
+    <BankSWIFT>WBKPPLPP</BankSWIFT>
+    <Debtor>Global Traders</Debtor>
+    <Status>Completed</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/88/2024</Number>
+        <DueDate>2024-05-01</DueDate>
+        <Amount>60000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/89/2024</Number>
+        <DueDate>2024-05-05</DueDate>
+        <Amount>50000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/90/2024</Number>
+        <DueDate>2024-05-07</DueDate>
+        <Amount>40000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-01-25</IssueDate>
+    <Amount>70000.00</Amount>
+    <BankSWIFT>INGBPLPW</BankSWIFT>
+    <Debtor>Fast Logistics</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/30/2024</Number>
+        <DueDate>2024-03-25</DueDate>
+        <Amount>25000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-04-01</IssueDate>
+    <Amount>95000.00</Amount>
+    <BankSWIFT>ALBPPLPW</BankSWIFT>
+    <Debtor>NextGen Tech</Debtor>
+    <Status>Terminated</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/78/2024</Number>
+        <DueDate>2024-06-01</DueDate>
+        <Amount>45000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-03-12</IssueDate>
+    <Amount>112000.00</Amount>
+    <BankSWIFT>BPKOPLPW</BankSWIFT>
+    <Debtor>Green Energy Ltd</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/99/2024</Number>
+        <DueDate>2024-05-20</DueDate>
+        <Amount>60000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/100/2024</Number>
+        <DueDate>2024-05-25</DueDate>
+        <Amount>52000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-02-18</IssueDate>
+    <Amount>62000.00</Amount>
+    <BankSWIFT>PPABPLPK</BankSWIFT>
+    <Debtor>Blue Ocean Trading</Debtor>
+    <Status>Completed</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/12/2024</Number>
+        <DueDate>2024-04-05</DueDate>
+        <Amount>32000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/13/2024</Number>
+        <DueDate>2024-04-10</DueDate>
+        <Amount>30000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-05-10</IssueDate>
+    <Amount>130000.00</Amount>
+    <BankSWIFT>BREXPLPW</BankSWIFT>
+    <Debtor>Innovate Solutions</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/200/2024</Number>
+        <DueDate>2024-07-01</DueDate>
+        <Amount>65000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>FV/201/2024</Number>
+        <DueDate>2024-07-10</DueDate>
+        <Amount>65000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+  
+    <Contract>
+    <IssueDate>2024-01-15</IssueDate>
+    <Amount>120000.00</Amount>
+    <BankSWIFT>BIGBPLPW</BankSWIFT>
+    <Debtor>ABCD Company</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>FV/126/2023</Number>
+        <DueDate>2024-03-15</DueDate>
+        <Amount>50000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+  
+  <Contract>
+    <IssueDate>2024-02-05</IssueDate>
+    <Amount>85000.00</Amount>
+    <BankSWIFT>PKOPPLPW</BankSWIFT>
+    <Debtor>XYZ Industries</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>INV/2024/001</Number>
+        <DueDate>2024-04-10</DueDate>
+        <Amount>45000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>INV/2024/002</Number>
+        <DueDate>2024-04-20</DueDate>
+        <Amount>40000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2023-12-22</IssueDate>
+    <Amount>95000.00</Amount>
+    <BankSWIFT>WBKPPLPP</BankSWIFT>
+    <Debtor>GreenTech Ltd</Debtor>
+    <Status>Completed</Status>
+    <Invoices>
+      <Invoice>
+        <Number>GT-2023-55</Number>
+        <DueDate>2024-02-15</DueDate>
+        <Amount>95000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-01-30</IssueDate>
+    <Amount>50000.00</Amount>
+    <BankSWIFT>INGBPLPW</BankSWIFT>
+    <Debtor>FastLogistics</Debtor>
+    <Status>Active</Status>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-02-10</IssueDate>
+    <Amount>105000.00</Amount>
+    <BankSWIFT>BPKOPLPW</BankSWIFT>
+    <Debtor>TechNova</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>TN-INV-1001</Number>
+        <DueDate>2024-05-01</DueDate>
+        <Amount>60000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>TN-INV-1002</Number>
+        <DueDate>2024-05-10</DueDate>
+        <Amount>45000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2023-11-12</IssueDate>
+    <Amount>65000.00</Amount>
+    <BankSWIFT>BREXPLPW</BankSWIFT>
+    <Debtor>Retail Solutions</Debtor>
+    <Status>Completed</Status>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-01-20</IssueDate>
+    <Amount>30000.00</Amount>
+    <BankSWIFT>BIGBPLPW</BankSWIFT>
+    <Debtor>MediaWorld</Debtor>
+    <Status>Active</Status>
+    <Invoices>
+      <Invoice>
+        <Number>MW-INV-2024-03</Number>
+        <DueDate>2024-03-30</DueDate>
+        <Amount>15000.00</Amount>
+      </Invoice>
+      <Invoice>
+        <Number>MW-INV-2024-04</Number>
+        <DueDate>2024-04-05</DueDate>
+        <Amount>15000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2023-10-25</IssueDate>
+    <Amount>78000.00</Amount>
+    <BankSWIFT>ALBPPLPW</BankSWIFT>
+    <Debtor>SteelForge</Debtor>
+    <Status>Terminated</Status>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2024-02-02</IssueDate>
+    <Amount>92000.00</Amount>
+    <BankSWIFT>PPABPLPK</BankSWIFT>
+    <Debtor>FreshFoods</Debtor>
+    <Status>Active</Status>
+  </Contract>
+
+  <Contract>
+    <IssueDate>2023-12-10</IssueDate>
+    <Amount>44000.00</Amount>
+    <BankSWIFT>PKOPPLPW</BankSWIFT>
+    <Debtor>AutoParts Ltd</Debtor>
+    <Status>Completed</Status>
+    <Invoices>
+      <Invoice>
+        <Number>AP-2023-78</Number>
+        <DueDate>2024-02-28</DueDate>
+        <Amount>44000.00</Amount>
+      </Invoice>
+    </Invoices>
+  </Contract>
+</FactoringContracts>
